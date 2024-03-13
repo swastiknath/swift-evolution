@@ -1,12 +1,12 @@
 # Send Non-Sendable
 
-* Proposal: [SE-NNNN](NNNN-filename.md)
+* Proposal: [SE-289917a_suh2](NNNN-filename.md)
 * Authors: [Swastik Nath](https://github.com/swastiknath)
 * Review Manager: [Joshua Turcoti](https://github.com/joshuat)
 * Status: **Awaiting implementation**
-* Vision: *if applicable* [Vision Name](https://github.com/apple/swift-evolution/visions/289917a_suh2.md)
-* Roadmap: *if applicable* [Roadmap Name](https://forums.swift.org/isolated_safecheck_noavue))
-* Bug: *if applicable* [apple/swift#NNNNN](https://github.com/apple/swift/issues/289917a_suh2)
+* Vision: *if applicable* [Isolated Safecheck](https://github.com/apple/swift-evolution/visions/289917a_suh2.md)
+* Roadmap: *if applicable* [Swift Isolated Safecheck](https://forums.swift.org/isolated_safecheck_noavue))
+* Bug: *if applicable* [apple/swift#289917a](https://github.com/apple/swift/issues/289917a_suh2)
 * Implementation: available on public Github: [SendNonSendable.cpp](https://github.com/apple/swift/blob/main/lib/SILOptimizer/Mandatory/SendNonSendable.cpp)
 * Upcoming Feature Flag: `SendNonSendable`
 * Review: ([pitch](https://forums.swift.org/t/pitch-safely-sending-non-sendable-values-across-isolation-domains/66566))
