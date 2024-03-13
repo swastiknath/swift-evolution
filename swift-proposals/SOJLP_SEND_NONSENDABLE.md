@@ -1,7 +1,7 @@
 # Send Non-Sendable
 
 * Proposal: [SE-289917a_suh2](NNNN-filename.md)
-* Authors: [Swastik Nath](https://github.com/swastiknath)
+* Authors: [Swastik Nath, YN Srikant](https://github.com/swastiknath)
 * Review Manager: [Joshua Turcoti](https://github.com/joshuat)
 * Status: **Awaiting implementation**
 * Vision: *if applicable* [Isolated Safecheck](https://github.com/apple/swift-evolution/visions/289917a_suh2.md)
